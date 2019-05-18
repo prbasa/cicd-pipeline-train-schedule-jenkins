@@ -29,3 +29,5 @@ This should trigger the build 5 times
 This should trigger the build 5 times
 
 This should trigger the build 5 times
+
+This should trigger the build 7 times
